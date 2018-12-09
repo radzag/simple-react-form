@@ -1,0 +1,25 @@
+.input-element {
+    margin-bottom: 30px;
+}
+
+.input-labels {
+    display: inline;
+}
+
+.validation-error {
+    color: #C6426E;
+    float: right;
+}
+
+.warning {
+    color: #CCC;
+    float: right;
+}
+
+.buttons-container {
+    text-align: center;
+}
+
+button {
+    margin: 2rem;
+}
