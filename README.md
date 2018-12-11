@@ -1,6 +1,9 @@
 # EventForm
 
-One Paragraph of project description goes here
+## Prerequisites
+
+In order to run the app (or tests) you need to have a running MongoDB instance with default configuration.
+https://www.mongodb.com/
 
 ## Getting Started
 
