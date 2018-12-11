@@ -13,6 +13,13 @@ In each subdirectory run:
 npm install
 ```
 
+### Running
+
+In each subdirectory run:
+```
+npm run start
+```
+
 ## Running the tests
 
 In the API subdirectory run:
