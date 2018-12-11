@@ -3,7 +3,7 @@
 ## Prerequisites
 
 In order to run the app (or tests) you need to have a running MongoDB instance with default configuration.
-https://www.mongodb.com/
+https://www.mongodb.com/download-center/community
 
 ## Getting Started
 
